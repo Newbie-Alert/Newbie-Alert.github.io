@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d1fa1e3.css",
-    "main.js": "/static/js/main.ef1000b7.js",
+    "main.css": "/static/css/main.28a46b8d.css",
+    "main.js": "/static/js/main.861b70a0.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/pf_minimalShop.png": "/static/media/pf_minimalShop.020a304959797c93b57e.png",
     "static/media/pf_SolarSystem.png": "/static/media/pf_SolarSystem.e2a87b6f2038fcfd6bb3.png",
+    "static/media/pf_imitaion.png": "/static/media/pf_imitaion.ed38e6889d97e34b7681.png",
     "static/media/pf_chatbot.png": "/static/media/pf_chatbot.f7a6cdd5bac67de64bc3.png",
     "static/media/pf_todo.png": "/static/media/pf_todo.d40bcab3e902ce76246d.png",
     "index.html": "/index.html",
-    "main.8d1fa1e3.css.map": "/static/css/main.8d1fa1e3.css.map",
-    "main.ef1000b7.js.map": "/static/js/main.ef1000b7.js.map",
+    "main.28a46b8d.css.map": "/static/css/main.28a46b8d.css.map",
+    "main.861b70a0.js.map": "/static/js/main.861b70a0.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d1fa1e3.css",
-    "static/js/main.ef1000b7.js"
+    "static/css/main.28a46b8d.css",
+    "static/js/main.861b70a0.js"
   ]
 }
